@@ -42,3 +42,6 @@ https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html
 
 
 
+=== Intellij
+If using Intellij : change the project structure to add generated-sourcesfolder as a “source” directory. Project Structure → Modules → Click the generated-sources folder and make it a sourcesfolder.
+
